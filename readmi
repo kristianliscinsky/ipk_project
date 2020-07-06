@@ -1,0 +1,3 @@
+U volieb -n a -f sa v prípade neexistujucého loginu vypíše na štandardný chybový výstup, že daný užívateľ sa nenašiel.
+U voľby -l sa v prípade prefixu, ktorý sa nezhoduje so žiadnym loginom nevypíše na výstup nič.
+Server nie je konkurentný.
